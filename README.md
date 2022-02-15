@@ -1,2 +1,2 @@
 # KatasAzucenaGiron
-Ejercicios Resuletos
+Ejercicios Resueltos
